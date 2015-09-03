@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   
   def Johnic
-    render text: "Hello, beatifull WORLD!"
+    render text: "Привет, Шлюшка!:)"
   end
 
 end
